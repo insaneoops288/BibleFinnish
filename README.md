@@ -1,13 +1,10 @@
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church01.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church02.jpg" >
 
-# 읽어주는 하나님의 말씀 v2.006 입니다.
-
-# 당신은 하늘나라에 들어가는 길을 찾았나요?
+# Word Of God v2.006
 
 # Have you found your way to heaven?
 
-<img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/ChurchWallpaper2.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church03.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church04.jpg" >
 <img src="https://github.com/insaneoops288/Bible/blob/main/WordOfGod/Church05.jpg" >
