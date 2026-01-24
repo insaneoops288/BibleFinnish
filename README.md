@@ -1,2 +1,0 @@
-# BibleFinnish
-BibleFinnish
